@@ -1,5 +1,7 @@
 # Debeers technical challenge
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alexbowen/debeers-challenge.svg)](https://greenkeeper.io/)
+
 This application uses the blockchain.info websockets endpoint to stream transactions in realtime and the HTTP api to query specific Bitcoin addresses.
 
 ## Instructions to run the application
