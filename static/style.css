@@ -1,0 +1,26 @@
+h1 {
+    margin-bottom:0.6em
+}
+
+button {
+    display: block;
+    width:100%;
+}
+
+.transactions__feed  * {
+    font-size:0.9em;
+    text-align:left;
+}
+
+.transactions__feed .header {
+    font-size:1em;
+    font-weight:bold;
+}
+
+.jumbotron {
+    padding: 1em 2em
+}
+
+.address select {
+    font-size:0.9em;
+}
