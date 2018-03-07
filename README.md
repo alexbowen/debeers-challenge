@@ -21,7 +21,7 @@ The application is a CSR (client side rendered) Vue.js application. The containe
 
 Some basic error handling displays an error message to the user if there is a problem and the `ADDRESS_ONERROR` or `SOCKET_ONERROR` mutation is called.
 
-![home page](https://raw.githubusercontent.com/alexbowen/debeers/master/error-state.png)
+![home page](https://raw.githubusercontent.com/alexbowen/debeers-challenge/master/error-state.png)
 
 I would add a 'loading' state with an indicator to the content area area when requests are made and removed when resolved with more time.
 
